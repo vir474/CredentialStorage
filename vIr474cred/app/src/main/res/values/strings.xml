@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vIr474cred</string>
+    <string name="action_settings">Settings</string>
+    <string name="holders_name">Welcome VIR474 :)</string>
+    <string name="help_display">Enter your Master Password !</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="function_prompt">Which Credential do you want ?</string>
+
+
+</resources>
